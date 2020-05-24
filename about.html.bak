@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>About Us</title>
+	<link href="styles/main.css" rel="stylesheet" />
+	<style>
+
+body {
+  background-image: url("abhi2.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0px;
+  padding: 0px;
+  height: 100%; 
+  width: 100%;
+  background-attachment: fixed;
+    background-size: cover;
+}
+</style>
+</head>
+<body>
+		<h1>ABOUT US</h1>
+	    	<ul>
+	    		<li><a href="index.html">Home</a></li>
+	    		<li><a href="about.html">About Us</a></li>
+	    		<li><a href="booking.html">Book Tickets</a></li>
+	    		<li><a href="contact.html">Contact Us</a></li>
+	    	</ul>
+	<div id="intro">
+	<h2>
+		<p>
+	   		Are you tired of standing in long queues and waiting for your turn to book tickets?Don't worry, we've got you covered:)
+		</p>
+		<p>
+			Using our specially designed movie ticket booking system, you can now book your tickets comfortably from wherever you are in just one click!
+			One click is all it takes. You can select a movie, the show timings and screens.
+		</p>
+		<p>
+			Book your tickets easily by selecting your desired movie. Next, select your seats and once you confirm them, you'll be redirected to a payment gateway which is the last step in the ticket booking process. You'll receive an e-ticket once the payment is done.!
+		</p>
+		<p>
+			Voila! An easy and effective way to book your movie tickets.
+		</p>
+	</h2>
+    </div>
+
+</body>
+</html>

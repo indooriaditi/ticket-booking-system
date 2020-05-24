@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+<title>MovieTime</title>
+<link href="styles/main.css" rel="stylesheet" />
+<style>
+
+body {
+  background-image: url("abhi2.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0px;
+  padding: 0px;
+  height: 100%; 
+  width: 100%;
+  background-attachment: fixed;
+    background-size: cover;
+}
+</style>
+</head>
+	<body>
+		<h1>CONTACT US</h1>
+	    	<ul>
+	    		<li><a href="index.html">Home</a></li>
+	    		<li><a href="about.html">About Us</a></li>
+	    		<li><a href="booking.html">Book Tickets</a></li>
+	    		<li><a href="contact.html">Contact Us</a></li>
+	    	</ul>
+	    	<div id="contact">
+	    		<h2>
+	    			<br><br>
+	    		<p>Movietime
+	    			<br>CBIT, gandipet, Hyderabad, Telangana,500075, India
+	    		</p>
+	    			<P>EMAIL: support@movietime.in
+	    			<br>PHONE: +91 040 24193276
+					<br><br>Designed by Abhigna Amarraju <br>and<br> Aditi Indoori
+	    		    </p>
+	    	</h2>
+	    	</div>
+
+	    </body>
+	</html>
+	    
